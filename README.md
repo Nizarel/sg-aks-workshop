@@ -2,7 +2,7 @@
 
 This repo is a **WORK IN PROGRESS**.
 
-# Cloud Native App Governance + Security Workshop
+# Cloud Native App Governance + Security Eq Bank Workshop
 
 Hello, and welcome to the workshop. This is a 2-day hands-on workshop focused on setting up AKS along with additional technologies to make it adhere to the governance and security needs of highly regulated customers.
 
